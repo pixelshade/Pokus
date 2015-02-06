@@ -23,3 +23,6 @@
 /Users/pixelshade/Projects/Pokus/Droid/bin/Release/System.Net.Http.Primitives.dll
 /Users/pixelshade/Projects/Pokus/Droid/bin/Release/Microsoft.Threading.Tasks.dll
 /Users/pixelshade/Projects/Pokus/Droid/bin/Release/Microsoft.Threading.Tasks.Extensions.dll
+/Users/pixelshade/Projects/Pokus/Droid/bin/Release/System.Net.Primitives.dll
+/Users/pixelshade/Projects/Pokus/Droid/bin/Release/Newtonsoft.Json.dll
+/Users/pixelshade/Projects/Pokus/Droid/bin/Release/System.Diagnostics.Tools.dll

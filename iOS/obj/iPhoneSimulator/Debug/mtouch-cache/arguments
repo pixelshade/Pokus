@@ -131,9 +131,15 @@
 	-r \
 	/Users/pixelshade/Projects/Pokus/Pokus/bin/Debug/RestSharp.Portable.dll \
 	-r \
+	/Users/pixelshade/Projects/Pokus/Pokus/bin/Debug/System.Net.Primitives.dll \
+	-r \
+	/Users/pixelshade/Projects/Pokus/Pokus/bin/Debug/Newtonsoft.Json.dll \
+	-r \
 	/Users/pixelshade/Projects/Pokus/Pokus/bin/Debug/System.Net.Http.Primitives.dll \
 	-r \
 	/Users/pixelshade/Projects/Pokus/Pokus/bin/Debug/Microsoft.Threading.Tasks.dll \
 	-r \
 	/Users/pixelshade/Projects/Pokus/Pokus/bin/Debug/Microsoft.Threading.Tasks.Extensions.dll \
+	-r \
+	/Users/pixelshade/Projects/Pokus/Pokus/bin/Debug/System.Diagnostics.Tools.dll \
 	/Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug//Pokus.iOS.exe \

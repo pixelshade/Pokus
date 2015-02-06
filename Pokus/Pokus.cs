@@ -7,7 +7,7 @@ namespace Pokus
 	public class App:Application
 	{
 		public App(){
-			MainPage = new LoginPage();
+			MainPage = new Pokus.LoginPage();
 
 		}
 

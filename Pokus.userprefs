@@ -1,9 +1,15 @@
 ﻿<Properties StartupItem="iOS/Pokus.iOS.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Ad-Hoc|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pokus/HelloPage.xaml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pokus/ApiService.cs">
     <Files>
-      <File FileName="Pokus/HelloPage.xaml" Line="1" Column="1" />
-      <File FileName="Pokus/Pokus.cs" Line="1" Column="1" />
+      <File FileName="Pokus/ApiService.cs" Line="24" Column="24" />
+      <File FileName="Pokus/Pages/DashboardPage.xaml" Line="2" Column="2" />
+      <File FileName="Pokus/Pages/DashboardPage.xaml.cs" Line="33" Column="33" />
+      <File FileName="Pokus/Pages/IntroPage.xaml" Line="1" Column="1" />
+      <File FileName="Pokus/Pages/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="Pokus/Pages/LoginPage.xaml.cs" Line="59" Column="59" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/8.6.0.51/src/mono/mcs/class/System/System/Uri.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

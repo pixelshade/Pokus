@@ -30,6 +30,10 @@
 /Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/Pokus.dll
 /Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/Pokus.dll.mdb
 /Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/RestSharp.Portable.dll
+/Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/System.Net.Primitives.dll
+/Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/System.Net.Requests.dll
+/Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/Microsoft.Threading.Tasks.Extensions.dll
+/Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
 /Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
 /Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/Microsoft.Threading.Tasks.dll
-/Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/Microsoft.Threading.Tasks.Extensions.dll
+/Users/pixelshade/Projects/Pokus/iOS/bin/iPhoneSimulator/Debug/System.Diagnostics.Tools.dll
